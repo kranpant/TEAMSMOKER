@@ -142,7 +142,7 @@ async def helpback(event):
             ]
           )
     else:
-        await event.answer("Make Your Own Altron Bots !! @TEAM_SMOKER", cache_time=0, alert=True)
+        await event.answer("Make Your Own Team Smoker Bots !! @TEAM_SMOKER", cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"spam"))
