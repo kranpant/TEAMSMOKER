@@ -150,7 +150,7 @@ REPLYRAID = [
     "LWDEEE",
     "PAPA KI SPEED MTCH NHI HO RHI KYA",
     "ALE ALE MELA BCHAAAA",
-    "[RYAN](t.me/PYTH0NXD) TERA BAAP !!",
+    "[ᏕᎷᎧᏦᏋᏒ 𝘼𝘿𝘿𝙞𝙘𝙩𝙞𝙤𝙣ᜰ꙰ꦿ🍷](t.me/PYTH0NXD) TERA BAAP !!",
     "CHUD GYA PAPA SEEE",
     "KISAN KO KHODNA OR",
     "SALE RAPEKL KRDKA TERA",
