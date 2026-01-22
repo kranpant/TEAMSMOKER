@@ -16,7 +16,7 @@ CMD_HNDLR = getenv("CMD_HNDLR", default="!")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 
-BOT_TOKEN = getenv("BOT_TOKEN", default="8559204606:AAHHBapP0ajaL6Jh6ZDAuEizNXQDKR1BFQ0")
+BOT_TOKEN = getenv("BOT_TOKEN", default="8559204606:AAHHBApP0ajAL6Jh6ZDAuEizNXQDKR1BFQ0")
 BOT_TOKEN2 = getenv("BOT_TOKEN2", default="8548826639:AAG_MhlkhVV0jO70a-kTFALzI1AvP_xr4OM")
 BOT_TOKEN3 = getenv("BOT_TOKEN3", default="8424188372:AAEUOrFVf6ltODHGFlQn9oAnkTG8vEKcsds")
 BOT_TOKEN4 = getenv("BOT_TOKEN4", default="8486490317:AAHhfOmRjOznt0o9oHvqOhE38kd1atat2mc")
@@ -46,6 +46,7 @@ X7 = TelegramClient('X7', API_ID, API_HASH).start(bot_token=BOT_TOKEN7)
 X8 = TelegramClient('X8', API_ID, API_HASH).start(bot_token=BOT_TOKEN8)
 X9 = TelegramClient('X9', API_ID, API_HASH).start(bot_token=BOT_TOKEN9)
 X10 = TelegramClient('X10', API_ID, API_HASH).start(bot_token=BOT_TOKEN10)
+
 
 
 
