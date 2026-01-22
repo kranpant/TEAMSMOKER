@@ -10,8 +10,8 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
 
 
 # VALUES REQUIRED FOR XBOTS
-API_ID = 21750155
-API_HASH = "b6de6d142818b53e796b9a6ea570d2a7"
+API_ID = 23281569
+API_HASH = "a4b1ede83dfbdfefdbc474035df634f4"
 CMD_HNDLR = getenv("CMD_HNDLR", default="!")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
@@ -46,4 +46,5 @@ X7 = TelegramClient('X7', API_ID, API_HASH).start(bot_token=BOT_TOKEN7)
 X8 = TelegramClient('X8', API_ID, API_HASH).start(bot_token=BOT_TOKEN8)
 X9 = TelegramClient('X9', API_ID, API_HASH).start(bot_token=BOT_TOKEN9)
 X10 = TelegramClient('X10', API_ID, API_HASH).start(bot_token=BOT_TOKEN10)
+
 
