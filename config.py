@@ -27,7 +27,7 @@ BOT_TOKEN8 = getenv("BOT_TOKEN8", default="8381481152:AAEAzSz7oTjKRr5GKf8CzSEj5d
 BOT_TOKEN9 = getenv("BOT_TOKEN9", default="8562948465:AAFuDw--7H_QsmzBNduhXWoEasTidAteEC4")
 BOT_TOKEN10 = getenv("BOT_TOKEN10", default="8585725407:AAHan_3ersHHs5skszNZk7TcuY8wVfjq4jg")
 
-SUDO_USERS = list(map(lambda x: int(x), getenv("SUDO_USERS", default="836269025").split()))
+SUDO_USERS = list(map(lambda x: int(x), getenv("SUDO_USERS", default="6736680152").split()))
 for x in ALTRON:
     SUDO_USERS.append(x)
 OWNER_ID = int(getenv("OWNER_ID", default="5533647702"))
@@ -46,6 +46,7 @@ X7 = TelegramClient('X7', API_ID, API_HASH).start(bot_token=BOT_TOKEN7)
 X8 = TelegramClient('X8', API_ID, API_HASH).start(bot_token=BOT_TOKEN8)
 X9 = TelegramClient('X9', API_ID, API_HASH).start(bot_token=BOT_TOKEN9)
 X10 = TelegramClient('X10', API_ID, API_HASH).start(bot_token=BOT_TOKEN10)
+
 
 
 
